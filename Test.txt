@@ -1,0 +1,1206 @@
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 12:42:12 PMMicrosoft Text Input Application7/27/2021 12:43:27 PMSettings7/27/2021 12:43:27 PMSettings7/27/2021 12:43:27 PMWorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 12:43:27 PMHow to write to a text file - C# Programming Guide | Microsoft Docs - Google Chrome7/27/2021 12:43:27 PMRimWorld by Ludeon Studios7/27/2021 12:43:27 PMD:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 12:43:27 PMMicrosoft Text Input Application7/27/2021 12:43:28 PMSettings7/27/2021 12:43:28 PMSettings7/27/2021 12:43:28 PMWorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 12:43:28 PMHow to write to a text file - C# Programming Guide | Microsoft Docs - Google Chrome7/27/2021 12:43:28 PMRimWorld by Ludeon Studios7/27/2021 12:43:28 PMD:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 12:43:28 PMMicrosoft Text Input Application7/27/2021 12:43:30 PMSettings7/27/2021 12:43:30 PMSettings7/27/2021 12:43:30 PMWorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 12:43:30 PMHow to write to a text file - C# Programming Guide | Microsoft Docs - Google Chrome7/27/2021 12:43:30 PMRimWorld by Ludeon Studios7/27/2021 12:43:30 PMD:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 12:43:30 PMMicrosoft Text Input Application7/27/2021 12:43:31 PMSettings7/27/2021 12:43:31 PMSettings7/27/2021 12:43:31 PMWorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 12:43:31 PMHow to write to a text file - C# Programming Guide | Microsoft Docs - Google Chrome7/27/2021 12:43:31 PMRimWorld by Ludeon Studios7/27/2021 12:43:31 PMD:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 12:43:31 PMMicrosoft Text Input Application7/27/2021 12:43:32 PMSettings7/27/2021 12:43:32 PMSettings7/27/2021 12:43:32 PMWorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 12:43:32 PMHow to write to a text file - C# Programming Guide | Microsoft Docs - Google Chrome7/27/2021 12:43:32 PMRimWorld by Ludeon Studios7/27/2021 12:43:32 PMD:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 12:43:32 PMMicrosoft Text Input Application7/27/2021 12:43:33 PMSettings7/27/2021 12:43:33 PMSettings7/27/2021 12:43:33 PMWorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 12:43:33 PMHow to write to a text file - C# Programming Guide | Microsoft Docs - Google Chrome7/27/2021 12:43:33 PMRimWorld by Ludeon Studios7/27/2021 12:43:33 PMD:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 12:43:33 PMTest.txt - Notepad7/27/2021 12:43:33 PMMicrosoft Text Input Application7/27/2021 12:43:34 PMSettings7/27/2021 12:43:34 PMSettings7/27/2021 12:43:34 PMWorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 12:43:34 PMHow to write to a text file - C# Programming Guide | Microsoft Docs - Google Chrome7/27/2021 12:43:34 PMRimWorld by Ludeon Studios7/27/2021 12:43:34 PMD:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 12:43:34 PMTest.txt - Notepad7/27/2021 12:43:34 PMMicrosoft Text Input Application7/27/2021 12:43:35 PMSettings7/27/2021 12:43:35 PMSettings7/27/2021 12:43:35 PMWorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 12:43:35 PMHow to write to a text file - C# Programming Guide | Microsoft Docs - Google Chrome7/27/2021 12:43:35 PMRimWorld by Ludeon Studios7/27/2021 12:43:35 PMD:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 12:43:35 PMTest.txt - Notepad7/27/2021 12:43:35 PMMicrosoft Text Input Application7/27/2021 12:43:37 PMSettings7/27/2021 12:43:37 PMSettings7/27/2021 12:43:37 PMWorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 12:43:37 PMHow to write to a text file - C# Programming Guide | Microsoft Docs - Google Chrome7/27/2021 12:43:37 PMRimWorld by Ludeon Studios7/27/2021 12:43:37 PMD:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 12:43:37 PMTest.txt - Notepad7/27/2021 12:43:37 PMMicrosoft Text Input Application7/27/2021 12:43:38 PMSettings7/27/2021 12:43:38 PMSettings7/27/2021 12:43:38 PMWorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 12:43:38 PMHow to write to a text file - C# Programming Guide | Microsoft Docs - Google Chrome7/27/2021 12:43:38 PMRimWorld by Ludeon Studios7/27/2021 12:43:38 PMD:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 12:43:38 PMTest.txt - Notepad7/27/2021 12:43:38 PMMicrosoft Text Input Application7/27/2021 12:43:39 PMSettings7/27/2021 12:43:39 PMSettings7/27/2021 12:43:39 PMWorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 12:43:39 PMHow to write to a text file - C# Programming Guide | Microsoft Docs - Google Chrome7/27/2021 12:43:39 PMRimWorld by Ludeon Studios7/27/2021 12:43:39 PMD:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 12:43:39 PMTest.txt - Notepad7/27/2021 12:43:39 PMMicrosoft Text Input Application7/27/2021 12:43:40 PMSettings7/27/2021 12:43:40 PMSettings7/27/2021 12:43:40 PMWorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 12:43:40 PMHow to write to a text file - C# Programming Guide | Microsoft Docs - Google Chrome7/27/2021 12:43:40 PMRimWorld by Ludeon Studios7/27/2021 12:43:40 PMD:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 12:43:40 PMTest.txt - Notepad7/27/2021 12:43:40 PMMicrosoft Text Input Application7/27/2021 12:43:41 PMSettings7/27/2021 12:43:41 PMSettings7/27/2021 12:43:41 PMWorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 12:43:41 PMHow to write to a text file - C# Programming Guide | Microsoft Docs - Google Chrome7/27/2021 12:43:41 PMRimWorld by Ludeon Studios7/27/2021 12:43:41 PMD:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 12:43:41 PMTest.txt - Notepad7/27/2021 12:43:41 PMMicrosoft Text Input Application7/27/2021 12:43:42 PMSettings7/27/2021 12:43:42 PMSettings7/27/2021 12:43:42 PMWorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 12:43:42 PMHow to write to a text file - C# Programming Guide | Microsoft Docs - Google Chrome7/27/2021 12:43:42 PMRimWorld by Ludeon Studios7/27/2021 12:43:42 PMD:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 12:43:42 PMMicrosoft Text Input Application7/27/2021 12:43:44 PMSettings7/27/2021 12:43:44 PMSettings7/27/2021 12:43:44 PMWorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 12:43:44 PMHow to write to a text file - C# Programming Guide | Microsoft Docs - Google Chrome7/27/2021 12:43:44 PMRimWorld by Ludeon Studios7/27/2021 12:43:44 PMD:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 12:43:44 PMMicrosoft Text Input Application7/27/2021 12:43:45 PMSettings7/27/2021 12:43:45 PMSettings7/27/2021 12:43:45 PMWorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 12:43:45 PMHow to write to a text file - C# Programming Guide | Microsoft Docs - Google Chrome7/27/2021 12:43:45 PMRimWorld by Ludeon Studios7/27/2021 12:43:45 PMD:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 12:43:45 PMMicrosoft Text Input Application7/27/2021 12:43:46 PMSettings7/27/2021 12:43:46 PMSettings7/27/2021 12:43:46 PMWorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 12:43:46 PMHow to write to a text file - C# Programming Guide | Microsoft Docs - Google Chrome7/27/2021 12:43:46 PMRimWorld by Ludeon Studios7/27/2021 12:43:46 PMD:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 12:43:46 PMMicrosoft Text Input Application7/27/2021 12:43:47 PMSettings7/27/2021 12:43:47 PMSettings7/27/2021 12:43:47 PMWorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 12:43:47 PMHow to write to a text file - C# Programming Guide | Microsoft Docs - Google Chrome7/27/2021 12:43:47 PMRimWorld by Ludeon Studios7/27/2021 12:43:47 PMD:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 12:43:47 PMMicrosoft Text Input Application7/27/2021 12:43:48 PMSettings7/27/2021 12:43:48 PMSettings7/27/2021 12:43:48 PMWorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 12:43:48 PMHow to write to a text file - C# Programming Guide | Microsoft Docs - Google Chrome7/27/2021 12:43:48 PMRimWorld by Ludeon Studios7/27/2021 12:43:48 PMD:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 12:43:48 PMMicrosoft Text Input Application7/27/2021 12:43:49 PMSettings7/27/2021 12:43:49 PMSettings7/27/2021 12:43:49 PMWorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 12:43:49 PMHow to write to a text file - C# Programming Guide | Microsoft Docs - Google Chrome7/27/2021 12:43:49 PMRimWorld by Ludeon Studios7/27/2021 12:43:49 PMD:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 12:43:49 PMMicrosoft Text Input Application7/27/2021 12:43:51 PMSettings7/27/2021 12:43:51 PMSettings7/27/2021 12:43:51 PMWorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 12:43:51 PMHow to write to a text file - C# Programming Guide | Microsoft Docs - Google Chrome7/27/2021 12:43:51 PMRimWorld by Ludeon Studios7/27/2021 12:43:51 PMD:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 12:43:51 PMMicrosoft Text Input Application7/27/2021 12:43:52 PMSettings7/27/2021 12:43:52 PMSettings7/27/2021 12:43:52 PMWorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 12:43:52 PMHow to write to a text file - C# Programming Guide | Microsoft Docs - Google Chrome7/27/2021 12:43:52 PMRimWorld by Ludeon Studios7/27/2021 12:43:52 PMD:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 12:43:52 PMMicrosoft Text Input Application7/27/2021 12:43:53 PMSettings7/27/2021 12:43:53 PMSettings7/27/2021 12:43:53 PMWorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 12:43:53 PMHow to write to a text file - C# Programming Guide | Microsoft Docs - Google Chrome7/27/2021 12:43:53 PMRimWorld by Ludeon Studios7/27/2021 12:43:53 PMD:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 12:43:53 PMMicrosoft Text Input Application7/27/2021 2:18:42 PM
+Settings7/27/2021 2:18:42 PM
+Settings7/27/2021 2:18:42 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:18:42 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:18:42 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:18:42 PM
+Microsoft Text Input Application7/27/2021 2:18:43 PM
+Settings7/27/2021 2:18:43 PM
+Settings7/27/2021 2:18:43 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:18:43 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:18:43 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:18:43 PM
+Microsoft Text Input Application7/27/2021 2:18:45 PM
+Settings7/27/2021 2:18:45 PM
+Settings7/27/2021 2:18:45 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:18:45 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:18:45 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:18:45 PM
+Microsoft Text Input Application7/27/2021 2:18:46 PM
+Settings7/27/2021 2:18:46 PM
+Settings7/27/2021 2:18:46 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:18:46 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:18:46 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:18:46 PM
+Test.txt - Notepad7/27/2021 2:18:46 PM
+Microsoft Text Input Application7/27/2021 2:18:47 PM
+Settings7/27/2021 2:18:47 PM
+Settings7/27/2021 2:18:47 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:18:47 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:18:47 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:18:47 PM
+Test.txt - Notepad7/27/2021 2:18:47 PM
+Microsoft Text Input Application7/27/2021 2:18:48 PM
+Settings7/27/2021 2:18:48 PM
+Settings7/27/2021 2:18:48 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:18:48 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:18:48 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:18:48 PM
+Test.txt - Notepad7/27/2021 2:18:48 PM
+Microsoft Text Input Application7/27/2021 2:18:49 PM
+Settings7/27/2021 2:18:49 PM
+Settings7/27/2021 2:18:49 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:18:49 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:18:49 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:18:49 PM
+Test.txt - Notepad7/27/2021 2:18:49 PM
+Microsoft Text Input Application7/27/2021 2:18:50 PM
+Settings7/27/2021 2:18:50 PM
+Settings7/27/2021 2:18:50 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:18:50 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:18:50 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:18:50 PM
+Test.txt - Notepad7/27/2021 2:18:50 PM
+Microsoft Text Input Application7/27/2021 2:18:51 PM
+Settings7/27/2021 2:18:51 PM
+Settings7/27/2021 2:18:51 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:18:51 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:18:51 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:18:51 PM
+Test.txt - Notepad7/27/2021 2:18:51 PM
+Microsoft Text Input Application7/27/2021 2:18:53 PM
+Settings7/27/2021 2:18:53 PM
+Settings7/27/2021 2:18:53 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:18:53 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:18:53 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:18:53 PM
+Test.txt - Notepad7/27/2021 2:18:53 PM
+Microsoft Text Input Application7/27/2021 2:18:54 PM
+Settings7/27/2021 2:18:54 PM
+Settings7/27/2021 2:18:54 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:18:54 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:18:54 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:18:54 PM
+Test.txt - Notepad7/27/2021 2:18:54 PM
+Microsoft Text Input Application7/27/2021 2:18:55 PM
+Settings7/27/2021 2:18:55 PM
+Settings7/27/2021 2:18:55 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:18:55 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:18:55 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:18:55 PM
+Test.txt - Notepad7/27/2021 2:18:55 PM
+Microsoft Text Input Application7/27/2021 2:18:56 PM
+Settings7/27/2021 2:18:56 PM
+Settings7/27/2021 2:18:56 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:18:56 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:18:56 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:18:56 PM
+Test.txt - Notepad7/27/2021 2:18:56 PM
+Microsoft Text Input Application7/27/2021 2:18:57 PM
+Settings7/27/2021 2:18:57 PM
+Settings7/27/2021 2:18:57 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:18:57 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:18:57 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:18:57 PM
+Test.txt - Notepad7/27/2021 2:18:57 PM
+Microsoft Text Input Application7/27/2021 2:18:58 PM
+Settings7/27/2021 2:18:58 PM
+Settings7/27/2021 2:18:58 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:18:58 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:18:58 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:18:58 PM
+Test.txt - Notepad7/27/2021 2:18:58 PM
+Microsoft Text Input Application7/27/2021 2:19:00 PM
+Settings7/27/2021 2:19:00 PM
+Settings7/27/2021 2:19:00 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:19:00 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:19:00 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:19:00 PM
+Test.txt - Notepad7/27/2021 2:19:00 PM
+Microsoft Text Input Application7/27/2021 2:19:01 PM
+Settings7/27/2021 2:19:01 PM
+Settings7/27/2021 2:19:01 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:19:01 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:19:01 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:19:01 PM
+Test.txt - Notepad7/27/2021 2:19:01 PM
+Microsoft Text Input Application7/27/2021 2:19:02 PM
+Settings7/27/2021 2:19:02 PM
+Settings7/27/2021 2:19:02 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:19:02 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:19:02 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:19:02 PM
+Test.txt - Notepad7/27/2021 2:19:02 PM
+Microsoft Text Input Application7/27/2021 2:19:03 PM
+Settings7/27/2021 2:19:03 PM
+Settings7/27/2021 2:19:03 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:19:03 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:19:03 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:19:03 PM
+Test.txt - Notepad7/27/2021 2:19:03 PM
+Microsoft Text Input Application7/27/2021 2:19:04 PM
+Settings7/27/2021 2:19:04 PM
+Settings7/27/2021 2:19:04 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:19:04 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:19:04 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:19:04 PM
+Test.txt - Notepad7/27/2021 2:19:04 PM
+Microsoft Text Input Application7/27/2021 2:19:05 PM
+Settings7/27/2021 2:19:05 PM
+Settings7/27/2021 2:19:05 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:19:05 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:19:05 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:19:05 PM
+Test.txt - Notepad7/27/2021 2:19:05 PM
+Microsoft Text Input Application7/27/2021 2:19:06 PM
+Settings7/27/2021 2:19:06 PM
+Settings7/27/2021 2:19:06 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:19:06 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:19:06 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:19:06 PM
+Test.txt - Notepad7/27/2021 2:19:06 PM
+Microsoft Text Input Application7/27/2021 2:19:08 PM
+Settings7/27/2021 2:19:08 PM
+Settings7/27/2021 2:19:08 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:19:08 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:19:08 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:19:08 PM
+Test.txt - Notepad7/27/2021 2:19:08 PM
+Microsoft Text Input Application7/27/2021 2:19:09 PM
+Settings7/27/2021 2:19:09 PM
+Settings7/27/2021 2:19:09 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:19:09 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:19:09 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:19:09 PM
+Test.txt - Notepad7/27/2021 2:19:09 PM
+Microsoft Text Input Application7/27/2021 2:19:10 PM
+Settings7/27/2021 2:19:10 PM
+Settings7/27/2021 2:19:10 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:19:10 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:19:10 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:19:10 PM
+Test.txt - Notepad7/27/2021 2:19:10 PM
+Microsoft Text Input Application7/27/2021 2:19:11 PM
+Settings7/27/2021 2:19:11 PM
+Settings7/27/2021 2:19:11 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:19:11 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:19:11 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:19:11 PM
+Test.txt - Notepad7/27/2021 2:19:11 PM
+Microsoft Text Input Application7/27/2021 2:19:12 PM
+Settings7/27/2021 2:19:12 PM
+Settings7/27/2021 2:19:12 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:19:12 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:19:12 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:19:12 PM
+Test.txt - Notepad7/27/2021 2:19:12 PM
+Microsoft Text Input Application7/27/2021 2:19:13 PM
+Settings7/27/2021 2:19:13 PM
+Settings7/27/2021 2:19:13 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:19:13 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:19:13 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:19:13 PM
+Test.txt - Notepad7/27/2021 2:19:13 PM
+Microsoft Text Input Application7/27/2021 2:19:14 PM
+Settings7/27/2021 2:19:14 PM
+Settings7/27/2021 2:19:14 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:19:14 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:19:14 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:19:14 PM
+Test.txt - Notepad7/27/2021 2:19:14 PM
+Microsoft Text Input Application7/27/2021 2:19:16 PM
+Settings7/27/2021 2:19:16 PM
+Settings7/27/2021 2:19:16 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:19:16 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:19:16 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:19:16 PM
+Test.txt - Notepad7/27/2021 2:19:16 PM
+Microsoft Text Input Application7/27/2021 2:19:17 PM
+Settings7/27/2021 2:19:17 PM
+Settings7/27/2021 2:19:17 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:19:17 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:19:17 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:19:17 PM
+Test.txt - Notepad7/27/2021 2:19:17 PM
+Microsoft Text Input Application7/27/2021 2:19:18 PM
+Settings7/27/2021 2:19:18 PM
+Settings7/27/2021 2:19:18 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:19:18 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:19:18 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:19:18 PM
+Test.txt - Notepad7/27/2021 2:19:18 PM
+Microsoft Text Input Application7/27/2021 2:19:19 PM
+Settings7/27/2021 2:19:19 PM
+Settings7/27/2021 2:19:19 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:19:19 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:19:19 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:19:19 PM
+Test.txt - Notepad7/27/2021 2:19:19 PM
+Microsoft Text Input Application7/27/2021 2:19:20 PM
+Settings7/27/2021 2:19:20 PM
+Settings7/27/2021 2:19:20 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:19:20 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:19:20 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:19:20 PM
+Test.txt - Notepad7/27/2021 2:19:20 PM
+Microsoft Text Input Application7/27/2021 2:19:21 PM
+Settings7/27/2021 2:19:21 PM
+Settings7/27/2021 2:19:21 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:19:21 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:19:21 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:19:21 PM
+Test.txt - Notepad7/27/2021 2:19:21 PM
+Microsoft Text Input Application7/27/2021 2:19:22 PM
+Settings7/27/2021 2:19:22 PM
+Settings7/27/2021 2:19:22 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:19:22 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:19:22 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:19:22 PM
+Test.txt - Notepad7/27/2021 2:19:22 PM
+Microsoft Text Input Application7/27/2021 2:19:24 PM
+Settings7/27/2021 2:19:24 PM
+Settings7/27/2021 2:19:24 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:19:24 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:19:24 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:19:24 PM
+Test.txt - Notepad7/27/2021 2:19:24 PM
+Microsoft Text Input Application7/27/2021 2:19:25 PM
+Settings7/27/2021 2:19:25 PM
+Settings7/27/2021 2:19:25 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:19:25 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:19:25 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:19:25 PM
+Test.txt - Notepad7/27/2021 2:19:25 PM
+Microsoft Text Input Application7/27/2021 2:19:26 PM
+Settings7/27/2021 2:19:26 PM
+Settings7/27/2021 2:19:26 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:19:26 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:19:26 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:19:26 PM
+Test.txt - Notepad7/27/2021 2:19:26 PM
+Microsoft Text Input Application7/27/2021 2:19:27 PM
+Settings7/27/2021 2:19:27 PM
+Settings7/27/2021 2:19:27 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:19:27 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:19:27 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:19:27 PM
+Test.txt - Notepad7/27/2021 2:19:27 PM
+Microsoft Text Input Application7/27/2021 2:19:28 PM
+Settings7/27/2021 2:19:28 PM
+Settings7/27/2021 2:19:28 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:19:28 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:19:28 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:19:28 PM
+Test.txt - Notepad7/27/2021 2:19:28 PM
+Microsoft Text Input Application7/27/2021 2:19:29 PM
+Settings7/27/2021 2:19:29 PM
+Settings7/27/2021 2:19:29 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:19:29 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:19:29 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:19:29 PM
+Test.txt - Notepad7/27/2021 2:19:29 PM
+Microsoft Text Input Application7/27/2021 2:19:30 PM
+Settings7/27/2021 2:19:30 PM
+Settings7/27/2021 2:19:30 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:19:30 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:19:30 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:19:30 PM
+Test.txt - Notepad7/27/2021 2:19:30 PM
+Microsoft Text Input Application7/27/2021 2:19:32 PM
+Settings7/27/2021 2:19:32 PM
+Settings7/27/2021 2:19:32 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:19:32 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:19:32 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:19:32 PM
+Test.txt - Notepad7/27/2021 2:19:32 PM
+Microsoft Text Input Application7/27/2021 2:19:33 PM
+Settings7/27/2021 2:19:33 PM
+Settings7/27/2021 2:19:33 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:19:33 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:19:33 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:19:33 PM
+Test.txt - Notepad7/27/2021 2:19:33 PM
+Microsoft Text Input Application7/27/2021 2:19:34 PM
+Settings7/27/2021 2:19:34 PM
+Settings7/27/2021 2:19:34 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:19:34 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:19:34 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:19:34 PM
+Test.txt - Notepad7/27/2021 2:19:34 PM
+Microsoft Text Input Application7/27/2021 2:19:35 PM
+Settings7/27/2021 2:19:35 PM
+Settings7/27/2021 2:19:35 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:19:35 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:19:35 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:19:35 PM
+Test.txt - Notepad7/27/2021 2:19:35 PM
+Microsoft Text Input Application7/27/2021 2:19:36 PM
+Settings7/27/2021 2:19:36 PM
+Settings7/27/2021 2:19:36 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:19:36 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:19:36 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:19:36 PM
+Test.txt - Notepad7/27/2021 2:19:36 PM
+Microsoft Text Input Application7/27/2021 2:19:37 PM
+Settings7/27/2021 2:19:37 PM
+Settings7/27/2021 2:19:37 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:19:37 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:19:37 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:19:37 PM
+Test.txt - Notepad7/27/2021 2:19:37 PM
+Microsoft Text Input Application7/27/2021 2:19:38 PM
+Settings7/27/2021 2:19:38 PM
+Settings7/27/2021 2:19:38 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:19:38 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:19:38 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:19:38 PM
+Test.txt - Notepad7/27/2021 2:19:38 PM
+Microsoft Text Input Application7/27/2021 2:19:40 PM
+Settings7/27/2021 2:19:40 PM
+Settings7/27/2021 2:19:40 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:19:40 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:19:40 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:19:40 PM
+Test.txt - Notepad7/27/2021 2:19:40 PM
+Microsoft Text Input Application7/27/2021 2:19:41 PM
+Settings7/27/2021 2:19:41 PM
+Settings7/27/2021 2:19:41 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:19:41 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:19:41 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:19:41 PM
+Test.txt - Notepad7/27/2021 2:19:41 PM
+Microsoft Text Input Application7/27/2021 2:19:42 PM
+Settings7/27/2021 2:19:42 PM
+Settings7/27/2021 2:19:42 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:19:42 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:19:42 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:19:42 PM
+Test.txt - Notepad7/27/2021 2:19:42 PM
+Microsoft Text Input Application7/27/2021 2:19:43 PM
+Settings7/27/2021 2:19:43 PM
+Settings7/27/2021 2:19:43 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:19:43 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:19:43 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:19:43 PM
+Test.txt - Notepad7/27/2021 2:19:43 PM
+Microsoft Text Input Application7/27/2021 2:19:44 PM
+Settings7/27/2021 2:19:44 PM
+Settings7/27/2021 2:19:44 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:19:44 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:19:44 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:19:44 PM
+Test.txt - Notepad7/27/2021 2:19:44 PM
+Microsoft Text Input Application7/27/2021 2:19:45 PM
+Settings7/27/2021 2:19:45 PM
+Settings7/27/2021 2:19:45 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:19:45 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:19:45 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:19:45 PM
+Test.txt - Notepad7/27/2021 2:19:45 PM
+Microsoft Text Input Application7/27/2021 2:19:46 PM
+Settings7/27/2021 2:19:46 PM
+Settings7/27/2021 2:19:46 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:19:46 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:19:46 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:19:46 PM
+Test.txt - Notepad7/27/2021 2:19:46 PM
+Microsoft Text Input Application7/27/2021 2:19:48 PM
+Settings7/27/2021 2:19:48 PM
+Settings7/27/2021 2:19:48 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:19:48 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:19:48 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:19:48 PM
+Test.txt - Notepad7/27/2021 2:19:48 PM
+Microsoft Text Input Application7/27/2021 2:19:49 PM
+Settings7/27/2021 2:19:49 PM
+Settings7/27/2021 2:19:49 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:19:49 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:19:49 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:19:49 PM
+Test.txt - Notepad7/27/2021 2:19:49 PM
+Microsoft Text Input Application7/27/2021 2:19:50 PM
+Settings7/27/2021 2:19:50 PM
+Settings7/27/2021 2:19:50 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:19:50 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:19:50 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:19:50 PM
+Test.txt - Notepad7/27/2021 2:19:50 PM
+Microsoft Text Input Application7/27/2021 2:19:51 PM
+Settings7/27/2021 2:19:51 PM
+Settings7/27/2021 2:19:51 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:19:51 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:19:51 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:19:51 PM
+Test.txt - Notepad7/27/2021 2:19:51 PM
+Microsoft Text Input Application7/27/2021 2:19:52 PM
+Settings7/27/2021 2:19:52 PM
+Settings7/27/2021 2:19:52 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:19:52 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:19:52 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:19:52 PM
+Test.txt - Notepad7/27/2021 2:19:52 PM
+Microsoft Text Input Application7/27/2021 2:19:53 PM
+Settings7/27/2021 2:19:53 PM
+Settings7/27/2021 2:19:53 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:19:53 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:19:53 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:19:53 PM
+Test.txt - Notepad7/27/2021 2:19:53 PM
+Microsoft Text Input Application7/27/2021 2:19:55 PM
+Settings7/27/2021 2:19:55 PM
+Settings7/27/2021 2:19:55 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:19:55 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:19:55 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:19:55 PM
+Test.txt - Notepad7/27/2021 2:19:55 PM
+Microsoft Text Input Application7/27/2021 2:19:56 PM
+Settings7/27/2021 2:19:56 PM
+Settings7/27/2021 2:19:56 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:19:56 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:19:56 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:19:56 PM
+Test.txt - Notepad7/27/2021 2:19:56 PM
+Microsoft Text Input Application7/27/2021 2:19:57 PM
+Settings7/27/2021 2:19:57 PM
+Settings7/27/2021 2:19:57 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:19:57 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:19:57 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:19:57 PM
+Test.txt - Notepad7/27/2021 2:19:57 PM
+Microsoft Text Input Application7/27/2021 2:19:58 PM
+Settings7/27/2021 2:19:58 PM
+Settings7/27/2021 2:19:58 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:19:58 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:19:58 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:19:58 PM
+Test.txt - Notepad7/27/2021 2:19:58 PM
+Microsoft Text Input Application7/27/2021 2:19:59 PM
+Settings7/27/2021 2:19:59 PM
+Settings7/27/2021 2:19:59 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:19:59 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:19:59 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:19:59 PM
+Test.txt - Notepad7/27/2021 2:19:59 PM
+Microsoft Text Input Application7/27/2021 2:20:00 PM
+Settings7/27/2021 2:20:00 PM
+Settings7/27/2021 2:20:00 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:20:00 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:20:00 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:20:00 PM
+Test.txt - Notepad7/27/2021 2:20:00 PM
+Microsoft Text Input Application7/27/2021 2:20:01 PM
+Settings7/27/2021 2:20:01 PM
+Settings7/27/2021 2:20:01 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:20:01 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:20:01 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:20:01 PM
+Test.txt - Notepad7/27/2021 2:20:01 PM
+Microsoft Text Input Application7/27/2021 2:20:03 PM
+Settings7/27/2021 2:20:03 PM
+Settings7/27/2021 2:20:03 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:20:03 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:20:03 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:20:03 PM
+Test.txt - Notepad7/27/2021 2:20:03 PM
+Microsoft Text Input Application7/27/2021 2:20:04 PM
+Settings7/27/2021 2:20:04 PM
+Settings7/27/2021 2:20:04 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:20:04 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:20:04 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:20:04 PM
+Test.txt - Notepad7/27/2021 2:20:04 PM
+Microsoft Text Input Application7/27/2021 2:20:05 PM
+Settings7/27/2021 2:20:05 PM
+Settings7/27/2021 2:20:05 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:20:05 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:20:05 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:20:05 PM
+Test.txt - Notepad7/27/2021 2:20:05 PM
+Microsoft Text Input Application7/27/2021 2:20:06 PM
+Settings7/27/2021 2:20:06 PM
+Settings7/27/2021 2:20:06 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:20:06 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:20:06 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:20:06 PM
+Test.txt - Notepad7/27/2021 2:20:06 PM
+Microsoft Text Input Application7/27/2021 2:20:07 PM
+Settings7/27/2021 2:20:07 PM
+Settings7/27/2021 2:20:07 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:20:07 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:20:07 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:20:07 PM
+Test.txt - Notepad7/27/2021 2:20:07 PM
+Microsoft Text Input Application7/27/2021 2:20:08 PM
+Settings7/27/2021 2:20:08 PM
+Settings7/27/2021 2:20:08 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:20:08 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:20:08 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:20:08 PM
+Test.txt - Notepad7/27/2021 2:20:08 PM
+Microsoft Text Input Application7/27/2021 2:20:09 PM
+Settings7/27/2021 2:20:09 PM
+Settings7/27/2021 2:20:09 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:20:09 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:20:09 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:20:09 PM
+Test.txt - Notepad7/27/2021 2:20:09 PM
+Microsoft Text Input Application7/27/2021 2:20:11 PM
+Settings7/27/2021 2:20:11 PM
+Settings7/27/2021 2:20:11 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:20:11 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:20:11 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:20:11 PM
+Test.txt - Notepad7/27/2021 2:20:11 PM
+Microsoft Text Input Application7/27/2021 2:20:12 PM
+Settings7/27/2021 2:20:12 PM
+Settings7/27/2021 2:20:12 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:20:12 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:20:12 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:20:12 PM
+Test.txt - Notepad7/27/2021 2:20:12 PM
+Microsoft Text Input Application7/27/2021 2:20:13 PM
+Settings7/27/2021 2:20:13 PM
+Settings7/27/2021 2:20:13 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:20:13 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:20:13 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:20:13 PM
+Test.txt - Notepad7/27/2021 2:20:13 PM
+Microsoft Text Input Application7/27/2021 2:20:14 PM
+Settings7/27/2021 2:20:14 PM
+Settings7/27/2021 2:20:14 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:20:14 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:20:14 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:20:14 PM
+Test.txt - Notepad7/27/2021 2:20:14 PM
+Microsoft Text Input Application7/27/2021 2:20:15 PM
+Settings7/27/2021 2:20:15 PM
+Settings7/27/2021 2:20:15 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 2:20:15 PM
+Background tasks with hosted services in ASP.NET Core | Microsoft Docs - Google Chrome7/27/2021 2:20:15 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 2:20:15 PM
+Test.txt - Notepad7/27/2021 2:20:15 PM
+Microsoft Text Input Application7/27/2021 5:09:47 PM
+Settings7/27/2021 5:09:47 PM
+Settings7/27/2021 5:09:47 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 5:09:47 PM
+c# - Determine from within code which user my process is running as - Stack Overflow - Google Chrome7/27/2021 5:09:47 PM
+Test.txt - Notepad7/27/2021 5:09:47 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 5:09:47 PM
+Microsoft Text Input Application7/27/2021 5:09:48 PM
+Settings7/27/2021 5:09:48 PM
+Settings7/27/2021 5:09:48 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 5:09:48 PM
+c# - Determine from within code which user my process is running as - Stack Overflow - Google Chrome7/27/2021 5:09:48 PM
+Test.txt - Notepad7/27/2021 5:09:48 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 5:09:48 PM
+Microsoft Text Input Application7/27/2021 5:09:49 PM
+Settings7/27/2021 5:09:49 PM
+Settings7/27/2021 5:09:49 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 5:09:49 PM
+c# - Determine from within code which user my process is running as - Stack Overflow - Google Chrome7/27/2021 5:09:49 PM
+Test.txt - Notepad7/27/2021 5:09:49 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 5:09:49 PM
+Microsoft Text Input Application7/27/2021 5:09:50 PM
+Settings7/27/2021 5:09:50 PM
+Settings7/27/2021 5:09:50 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 5:09:50 PM
+c# - Determine from within code which user my process is running as - Stack Overflow - Google Chrome7/27/2021 5:09:50 PM
+Test.txt - Notepad7/27/2021 5:09:50 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 5:09:50 PM
+Microsoft Text Input Application7/27/2021 8:44:18 PM
+Settings7/27/2021 8:44:18 PM
+Settings7/27/2021 8:44:18 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 8:44:18 PM
+c# - How to get active window that is not part of my application? - Stack Overflow - Google Chrome7/27/2021 8:44:18 PM
+Test.txt - Notepad7/27/2021 8:44:18 PM
+RimWorld by Ludeon Studios7/27/2021 8:44:18 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 8:44:18 PM
+Microsoft Text Input Application7/27/2021 8:44:19 PM
+Settings7/27/2021 8:44:19 PM
+Settings7/27/2021 8:44:19 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 8:44:19 PM
+c# - How to get active window that is not part of my application? - Stack Overflow - Google Chrome7/27/2021 8:44:19 PM
+Test.txt - Notepad7/27/2021 8:44:19 PM
+RimWorld by Ludeon Studios7/27/2021 8:44:19 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 8:44:19 PM
+Microsoft Text Input Application7/27/2021 8:44:20 PM
+Settings7/27/2021 8:44:20 PM
+Settings7/27/2021 8:44:20 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 8:44:20 PM
+c# - How to get active window that is not part of my application? - Stack Overflow - Google Chrome7/27/2021 8:44:20 PM
+Test.txt - Notepad7/27/2021 8:44:20 PM
+RimWorld by Ludeon Studios7/27/2021 8:44:20 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 8:44:20 PM
+Microsoft Text Input Application7/27/2021 8:44:22 PM
+Settings7/27/2021 8:44:22 PM
+Settings7/27/2021 8:44:22 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 8:44:22 PM
+c# - How to get active window that is not part of my application? - Stack Overflow - Google Chrome7/27/2021 8:44:22 PM
+Test.txt - Notepad7/27/2021 8:44:22 PM
+RimWorld by Ludeon Studios7/27/2021 8:44:22 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 8:44:22 PM
+Microsoft Text Input Application7/27/2021 8:44:23 PM
+Settings7/27/2021 8:44:23 PM
+Settings7/27/2021 8:44:23 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 8:44:23 PM
+c# - How to get active window that is not part of my application? - Stack Overflow - Google Chrome7/27/2021 8:44:23 PM
+Test.txt - Notepad7/27/2021 8:44:23 PM
+RimWorld by Ludeon Studios7/27/2021 8:44:23 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 8:44:23 PM
+Microsoft Text Input Application7/27/2021 8:44:24 PM
+Settings7/27/2021 8:44:24 PM
+Settings7/27/2021 8:44:24 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 8:44:24 PM
+c# - How to get active window that is not part of my application? - Stack Overflow - Google Chrome7/27/2021 8:44:24 PM
+Test.txt - Notepad7/27/2021 8:44:24 PM
+RimWorld by Ludeon Studios7/27/2021 8:44:24 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 8:44:24 PM
+Microsoft Text Input Application7/27/2021 8:44:25 PM
+Settings7/27/2021 8:44:25 PM
+Settings7/27/2021 8:44:25 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/27/2021 8:44:25 PM
+c# - How to get active window that is not part of my application? - Stack Overflow - Google Chrome7/27/2021 8:44:25 PM
+Test.txt - Notepad7/27/2021 8:44:25 PM
+RimWorld by Ludeon Studios7/27/2021 8:44:25 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/27/2021 8:44:25 PM
+Microsoft Text Input Application7/28/2021 9:15:33 PM
+Settings7/28/2021 9:15:33 PM
+Settings7/28/2021 9:15:33 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:15:33 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:15:33 PM
+Microsoft Text Input Application7/28/2021 9:15:34 PM
+Settings7/28/2021 9:15:34 PM
+Settings7/28/2021 9:15:34 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:15:34 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:15:34 PM
+Microsoft Text Input Application7/28/2021 9:15:36 PM
+Settings7/28/2021 9:15:36 PM
+Settings7/28/2021 9:15:36 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:15:36 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:15:36 PM
+Microsoft Text Input Application7/28/2021 9:15:37 PM
+Settings7/28/2021 9:15:37 PM
+Settings7/28/2021 9:15:37 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:15:37 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:15:37 PM
+Microsoft Text Input Application7/28/2021 9:15:38 PM
+Settings7/28/2021 9:15:38 PM
+Settings7/28/2021 9:15:38 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:15:38 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:15:38 PM
+Microsoft Text Input Application7/28/2021 9:15:39 PM
+Settings7/28/2021 9:15:39 PM
+Settings7/28/2021 9:15:39 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:15:39 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:15:39 PM
+Microsoft Text Input Application7/28/2021 9:15:40 PM
+Settings7/28/2021 9:15:40 PM
+Settings7/28/2021 9:15:40 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:15:40 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:15:40 PM
+Microsoft Text Input Application7/28/2021 9:15:42 PM
+Settings7/28/2021 9:15:42 PM
+Settings7/28/2021 9:15:42 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:15:42 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:15:42 PM
+Microsoft Text Input Application7/28/2021 9:15:43 PM
+Settings7/28/2021 9:15:43 PM
+Settings7/28/2021 9:15:43 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:15:43 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:15:43 PM
+Microsoft Text Input Application7/28/2021 9:15:44 PM
+Settings7/28/2021 9:15:44 PM
+Settings7/28/2021 9:15:44 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:15:44 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:15:44 PM
+Microsoft Text Input Application7/28/2021 9:15:45 PM
+Settings7/28/2021 9:15:45 PM
+Settings7/28/2021 9:15:45 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:15:45 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:15:45 PM
+Microsoft Text Input Application7/28/2021 9:15:46 PM
+Settings7/28/2021 9:15:46 PM
+Settings7/28/2021 9:15:46 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:15:46 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:15:46 PM
+Microsoft Text Input Application7/28/2021 9:15:48 PM
+Settings7/28/2021 9:15:48 PM
+Settings7/28/2021 9:15:48 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:15:48 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:15:48 PM
+Microsoft Text Input Application7/28/2021 9:15:49 PM
+Settings7/28/2021 9:15:49 PM
+Settings7/28/2021 9:15:49 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:15:49 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:15:49 PM
+Microsoft Text Input Application7/28/2021 9:15:50 PM
+Settings7/28/2021 9:15:50 PM
+Settings7/28/2021 9:15:50 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:15:50 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:15:50 PM
+Microsoft Text Input Application7/28/2021 9:15:51 PM
+Settings7/28/2021 9:15:51 PM
+Settings7/28/2021 9:15:51 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:15:51 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:15:51 PM
+Microsoft Text Input Application7/28/2021 9:15:52 PM
+Settings7/28/2021 9:15:52 PM
+Settings7/28/2021 9:15:52 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:15:52 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:15:52 PM
+Microsoft Text Input Application7/28/2021 9:15:53 PM
+Settings7/28/2021 9:15:53 PM
+Settings7/28/2021 9:15:53 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:15:53 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:15:53 PM
+Microsoft Text Input Application7/28/2021 9:15:55 PM
+Settings7/28/2021 9:15:55 PM
+Settings7/28/2021 9:15:55 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:15:55 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:15:55 PM
+Microsoft Text Input Application7/28/2021 9:15:56 PM
+Settings7/28/2021 9:15:56 PM
+Settings7/28/2021 9:15:56 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:15:56 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:15:56 PM
+Microsoft Text Input Application7/28/2021 9:15:57 PM
+Settings7/28/2021 9:15:57 PM
+Settings7/28/2021 9:15:57 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:15:57 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:15:57 PM
+Microsoft Text Input Application7/28/2021 9:15:58 PM
+Settings7/28/2021 9:15:58 PM
+Settings7/28/2021 9:15:58 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:15:58 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:15:58 PM
+Microsoft Text Input Application7/28/2021 9:15:59 PM
+Settings7/28/2021 9:15:59 PM
+Settings7/28/2021 9:15:59 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:15:59 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:15:59 PM
+Microsoft Text Input Application7/28/2021 9:16:01 PM
+Settings7/28/2021 9:16:01 PM
+Settings7/28/2021 9:16:01 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:16:01 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:16:01 PM
+Microsoft Text Input Application7/28/2021 9:16:02 PM
+Settings7/28/2021 9:16:02 PM
+Settings7/28/2021 9:16:02 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:16:02 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:16:02 PM
+Microsoft Text Input Application7/28/2021 9:16:03 PM
+Settings7/28/2021 9:16:03 PM
+Settings7/28/2021 9:16:03 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:16:03 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:16:03 PM
+Microsoft Text Input Application7/28/2021 9:16:04 PM
+Settings7/28/2021 9:16:04 PM
+Settings7/28/2021 9:16:04 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:16:04 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:16:04 PM
+Test.txt - Notepad7/28/2021 9:16:04 PM
+Microsoft Text Input Application7/28/2021 9:16:06 PM
+Settings7/28/2021 9:16:06 PM
+Settings7/28/2021 9:16:06 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:16:06 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:16:06 PM
+Test.txt - Notepad7/28/2021 9:16:06 PM
+Microsoft Text Input Application7/28/2021 9:16:07 PM
+Settings7/28/2021 9:16:07 PM
+Settings7/28/2021 9:16:07 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:16:07 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:16:07 PM
+Test.txt - Notepad7/28/2021 9:16:07 PM
+Microsoft Text Input Application7/28/2021 9:16:08 PM
+Settings7/28/2021 9:16:08 PM
+Settings7/28/2021 9:16:08 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:16:08 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:16:08 PM
+Test.txt - Notepad7/28/2021 9:16:08 PM
+Microsoft Text Input Application7/28/2021 9:16:09 PM
+Settings7/28/2021 9:16:09 PM
+Settings7/28/2021 9:16:09 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:16:09 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:16:09 PM
+Test.txt - Notepad7/28/2021 9:16:09 PM
+Microsoft Text Input Application7/28/2021 9:16:10 PM
+Settings7/28/2021 9:16:10 PM
+Settings7/28/2021 9:16:10 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:16:10 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:16:10 PM
+Test.txt - Notepad7/28/2021 9:16:10 PM
+Microsoft Text Input Application7/28/2021 9:16:12 PM
+Settings7/28/2021 9:16:12 PM
+Settings7/28/2021 9:16:12 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:16:12 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:16:12 PM
+Test.txt - Notepad7/28/2021 9:16:12 PM
+Microsoft Text Input Application7/28/2021 9:16:13 PM
+Settings7/28/2021 9:16:13 PM
+Settings7/28/2021 9:16:13 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:16:13 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:16:13 PM
+Test.txt - Notepad7/28/2021 9:16:13 PM
+Microsoft Text Input Application7/28/2021 9:16:14 PM
+Settings7/28/2021 9:16:14 PM
+Settings7/28/2021 9:16:14 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:16:14 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:16:14 PM
+Test.txt - Notepad7/28/2021 9:16:14 PM
+Microsoft Text Input Application7/28/2021 9:16:15 PM
+Settings7/28/2021 9:16:15 PM
+Settings7/28/2021 9:16:15 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:16:15 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:16:15 PM
+Test.txt - Notepad7/28/2021 9:16:15 PM
+Microsoft Text Input Application7/28/2021 9:16:16 PM
+Settings7/28/2021 9:16:16 PM
+Settings7/28/2021 9:16:16 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:16:16 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:16:16 PM
+Test.txt - Notepad7/28/2021 9:16:16 PM
+Microsoft Text Input Application7/28/2021 9:16:17 PM
+Settings7/28/2021 9:16:17 PM
+Settings7/28/2021 9:16:17 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:16:17 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:16:17 PM
+Test.txt - Notepad7/28/2021 9:16:17 PM
+Microsoft Text Input Application7/28/2021 9:16:19 PM
+Settings7/28/2021 9:16:19 PM
+Settings7/28/2021 9:16:19 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:16:19 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:16:19 PM
+Test.txt - Notepad7/28/2021 9:16:19 PM
+Microsoft Text Input Application7/28/2021 9:16:20 PM
+Settings7/28/2021 9:16:20 PM
+Settings7/28/2021 9:16:20 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:16:20 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:16:20 PM
+Test.txt - Notepad7/28/2021 9:16:20 PM
+Microsoft Text Input Application7/28/2021 9:16:21 PM
+Settings7/28/2021 9:16:21 PM
+Settings7/28/2021 9:16:21 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:16:21 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:16:21 PM
+Test.txt - Notepad7/28/2021 9:16:21 PM
+Microsoft Text Input Application7/28/2021 9:16:22 PM
+Settings7/28/2021 9:16:22 PM
+Settings7/28/2021 9:16:22 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:16:22 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:16:22 PM
+Test.txt - Notepad7/28/2021 9:16:22 PM
+Microsoft Text Input Application7/28/2021 9:16:23 PM
+Settings7/28/2021 9:16:23 PM
+Settings7/28/2021 9:16:23 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:16:23 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:16:23 PM
+Test.txt - Notepad7/28/2021 9:16:23 PM
+Microsoft Text Input Application7/28/2021 9:16:24 PM
+Settings7/28/2021 9:16:24 PM
+Settings7/28/2021 9:16:24 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:16:24 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:16:24 PM
+Test.txt - Notepad7/28/2021 9:16:24 PM
+Microsoft Text Input Application7/28/2021 9:16:26 PM
+Settings7/28/2021 9:16:26 PM
+Settings7/28/2021 9:16:26 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:16:26 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:16:26 PM
+Test.txt - Notepad7/28/2021 9:16:26 PM
+Microsoft Text Input Application7/28/2021 9:16:27 PM
+Settings7/28/2021 9:16:27 PM
+Settings7/28/2021 9:16:27 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:16:27 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:16:27 PM
+Test.txt - Notepad7/28/2021 9:16:27 PM
+Microsoft Text Input Application7/28/2021 9:16:28 PM
+Settings7/28/2021 9:16:28 PM
+Settings7/28/2021 9:16:28 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:16:28 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:16:28 PM
+Microsoft Text Input Application7/28/2021 9:16:29 PM
+Settings7/28/2021 9:16:29 PM
+Settings7/28/2021 9:16:29 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:16:29 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:16:29 PM
+Microsoft Text Input Application7/28/2021 9:16:30 PM
+Settings7/28/2021 9:16:30 PM
+Settings7/28/2021 9:16:30 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:16:30 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:16:30 PM
+Microsoft Text Input Application7/28/2021 9:16:32 PM
+Settings7/28/2021 9:16:32 PM
+Settings7/28/2021 9:16:32 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:16:32 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:16:32 PM
+Microsoft Text Input Application7/28/2021 9:16:33 PM
+Settings7/28/2021 9:16:33 PM
+Settings7/28/2021 9:16:33 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:16:33 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:16:33 PM
+Microsoft Text Input Application7/28/2021 9:32:36 PM
+Settings7/28/2021 9:32:36 PM
+Settings7/28/2021 9:32:36 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:32:36 PM
+Process.ToString Method (System.Diagnostics) | Microsoft Docs - Google Chrome7/28/2021 9:32:36 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:32:36 PM
+Microsoft Text Input Application7/28/2021 9:32:38 PM
+Settings7/28/2021 9:32:38 PM
+Settings7/28/2021 9:32:38 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:32:38 PM
+Process.ToString Method (System.Diagnostics) | Microsoft Docs - Google Chrome7/28/2021 9:32:38 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:32:38 PM
+Microsoft Text Input Application7/28/2021 9:32:39 PM
+Settings7/28/2021 9:32:39 PM
+Settings7/28/2021 9:32:39 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:32:39 PM
+Process.ToString Method (System.Diagnostics) | Microsoft Docs - Google Chrome7/28/2021 9:32:39 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:32:39 PM
+Microsoft Text Input Application7/28/2021 9:32:40 PM
+Settings7/28/2021 9:32:40 PM
+Settings7/28/2021 9:32:40 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:32:40 PM
+Process.ToString Method (System.Diagnostics) | Microsoft Docs - Google Chrome7/28/2021 9:32:40 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:32:40 PM
+Microsoft Text Input Application7/28/2021 9:32:41 PM
+Settings7/28/2021 9:32:41 PM
+Settings7/28/2021 9:32:41 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:32:41 PM
+Process.ToString Method (System.Diagnostics) | Microsoft Docs - Google Chrome7/28/2021 9:32:41 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:32:41 PM
+Microsoft Text Input Application7/28/2021 9:32:42 PM
+Settings7/28/2021 9:32:42 PM
+Settings7/28/2021 9:32:42 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:32:42 PM
+Process.ToString Method (System.Diagnostics) | Microsoft Docs - Google Chrome7/28/2021 9:32:42 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:32:42 PM
+Microsoft Text Input Application7/28/2021 9:32:43 PM
+Settings7/28/2021 9:32:43 PM
+Settings7/28/2021 9:32:43 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:32:43 PM
+Process.ToString Method (System.Diagnostics) | Microsoft Docs - Google Chrome7/28/2021 9:32:43 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:32:43 PM
+Microsoft Text Input Application7/28/2021 9:37:04 PM
+Settings7/28/2021 9:37:04 PM
+Settings7/28/2021 9:37:04 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:37:04 PM
+New Tab - Google Chrome7/28/2021 9:37:04 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:37:04 PM
+Microsoft Text Input Application7/28/2021 9:37:06 PM
+Settings7/28/2021 9:37:06 PM
+Settings7/28/2021 9:37:06 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:37:06 PM
+New Tab - Google Chrome7/28/2021 9:37:06 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:37:06 PM
+Microsoft Text Input Application7/28/2021 9:37:07 PM
+Settings7/28/2021 9:37:07 PM
+Settings7/28/2021 9:37:07 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:37:07 PM
+New Tab - Google Chrome7/28/2021 9:37:07 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:37:07 PM
+Microsoft Text Input Application7/28/2021 9:37:08 PM
+Settings7/28/2021 9:37:08 PM
+Settings7/28/2021 9:37:08 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:37:08 PM
+New Tab - Google Chrome7/28/2021 9:37:08 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:37:08 PM
+Microsoft Text Input Application7/28/2021 9:37:09 PM
+Settings7/28/2021 9:37:09 PM
+Settings7/28/2021 9:37:09 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:37:09 PM
+New Tab - Google Chrome7/28/2021 9:37:09 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:37:09 PM
+Microsoft Text Input Application7/28/2021 9:37:10 PM
+Settings7/28/2021 9:37:10 PM
+Settings7/28/2021 9:37:10 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:37:10 PM
+New Tab - Google Chrome7/28/2021 9:37:10 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:37:10 PM
+Microsoft Text Input Application7/28/2021 9:37:11 PM
+Settings7/28/2021 9:37:11 PM
+Settings7/28/2021 9:37:11 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:37:11 PM
+New Tab - Google Chrome7/28/2021 9:37:11 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:37:11 PM
+Microsoft Text Input Application7/28/2021 9:39:06 PM
+Settings7/28/2021 9:39:06 PM
+Settings7/28/2021 9:39:06 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:39:06 PM
+How to display list items on console window in C# - Stack Overflow - Google Chrome7/28/2021 9:39:06 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:39:06 PM
+Microsoft Text Input Application7/28/2021 9:39:07 PM
+Settings7/28/2021 9:39:07 PM
+Settings7/28/2021 9:39:07 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:39:07 PM
+How to display list items on console window in C# - Stack Overflow - Google Chrome7/28/2021 9:39:07 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:39:07 PM
+Microsoft Text Input Application7/28/2021 9:39:08 PM
+Settings7/28/2021 9:39:08 PM
+Settings7/28/2021 9:39:08 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:39:08 PM
+How to display list items on console window in C# - Stack Overflow - Google Chrome7/28/2021 9:39:08 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:39:08 PM
+Microsoft Text Input Application7/28/2021 9:39:09 PM
+Settings7/28/2021 9:39:09 PM
+Settings7/28/2021 9:39:09 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:39:09 PM
+How to display list items on console window in C# - Stack Overflow - Google Chrome7/28/2021 9:39:09 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:39:09 PM
+Microsoft Text Input Application7/28/2021 9:39:11 PM
+Settings7/28/2021 9:39:11 PM
+Settings7/28/2021 9:39:11 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:39:11 PM
+How to display list items on console window in C# - Stack Overflow - Google Chrome7/28/2021 9:39:11 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:39:11 PM
+Microsoft Text Input Application7/28/2021 9:39:12 PM
+Settings7/28/2021 9:39:12 PM
+Settings7/28/2021 9:39:12 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:39:12 PM
+How to display list items on console window in C# - Stack Overflow - Google Chrome7/28/2021 9:39:12 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:39:12 PM
+Microsoft Text Input Application7/28/2021 9:39:13 PM
+Settings7/28/2021 9:39:13 PM
+Settings7/28/2021 9:39:13 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:39:13 PM
+How to display list items on console window in C# - Stack Overflow - Google Chrome7/28/2021 9:39:13 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:39:13 PM
+Microsoft Text Input Application7/28/2021 9:39:14 PM
+Settings7/28/2021 9:39:14 PM
+Settings7/28/2021 9:39:14 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:39:14 PM
+How to display list items on console window in C# - Stack Overflow - Google Chrome7/28/2021 9:39:14 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:39:14 PM
+Microsoft Text Input Application7/28/2021 9:39:15 PM
+Settings7/28/2021 9:39:15 PM
+Settings7/28/2021 9:39:15 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:39:15 PM
+How to display list items on console window in C# - Stack Overflow - Google Chrome7/28/2021 9:39:15 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:39:15 PM
+Microsoft Text Input Application7/28/2021 9:39:17 PM
+Settings7/28/2021 9:39:17 PM
+Settings7/28/2021 9:39:17 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:39:17 PM
+How to display list items on console window in C# - Stack Overflow - Google Chrome7/28/2021 9:39:17 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:39:17 PM
+Microsoft Text Input Application7/28/2021 9:39:18 PM
+Settings7/28/2021 9:39:18 PM
+Settings7/28/2021 9:39:18 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:39:18 PM
+How to display list items on console window in C# - Stack Overflow - Google Chrome7/28/2021 9:39:18 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:39:18 PM
+Microsoft Text Input Application7/28/2021 9:41:22 PM
+Settings7/28/2021 9:41:22 PM
+Settings7/28/2021 9:41:22 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:41:22 PM
+How to display list items on console window in C# - Stack Overflow - Google Chrome7/28/2021 9:41:22 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:41:22 PM
+Microsoft Text Input Application7/28/2021 9:41:23 PM
+Settings7/28/2021 9:41:23 PM
+Settings7/28/2021 9:41:23 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:41:23 PM
+How to display list items on console window in C# - Stack Overflow - Google Chrome7/28/2021 9:41:23 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:41:23 PM
+Microsoft Text Input Application7/28/2021 9:41:25 PM
+Settings7/28/2021 9:41:25 PM
+Settings7/28/2021 9:41:25 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:41:25 PM
+How to display list items on console window in C# - Stack Overflow - Google Chrome7/28/2021 9:41:25 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:41:25 PM
+Microsoft Text Input Application7/28/2021 9:41:26 PM
+Settings7/28/2021 9:41:26 PM
+Settings7/28/2021 9:41:26 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:41:26 PM
+How to display list items on console window in C# - Stack Overflow - Google Chrome7/28/2021 9:41:26 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:41:26 PM
+Microsoft Text Input Application7/28/2021 9:41:27 PM
+Settings7/28/2021 9:41:27 PM
+Settings7/28/2021 9:41:27 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:41:27 PM
+How to display list items on console window in C# - Stack Overflow - Google Chrome7/28/2021 9:41:27 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:41:27 PM
+Microsoft Text Input Application7/28/2021 9:41:32 PM
+Settings7/28/2021 9:41:32 PM
+Settings7/28/2021 9:41:32 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:41:32 PM
+How to display list items on console window in C# - Stack Overflow - Google Chrome7/28/2021 9:41:32 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:41:32 PM
+Microsoft Text Input Application7/28/2021 9:42:36 PM
+Settings7/28/2021 9:42:36 PM
+Settings7/28/2021 9:42:36 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:42:36 PM
+How to display list items on console window in C# - Stack Overflow - Google Chrome7/28/2021 9:42:36 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:42:36 PM
+Microsoft Text Input Application7/28/2021 9:42:37 PM
+Settings7/28/2021 9:42:37 PM
+Settings7/28/2021 9:42:37 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:42:37 PM
+How to display list items on console window in C# - Stack Overflow - Google Chrome7/28/2021 9:42:37 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:42:37 PM
+Microsoft Text Input Application7/28/2021 9:42:39 PM
+Settings7/28/2021 9:42:39 PM
+Settings7/28/2021 9:42:39 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:42:39 PM
+How to display list items on console window in C# - Stack Overflow - Google Chrome7/28/2021 9:42:39 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:42:39 PM
+Microsoft Text Input Application7/28/2021 9:42:40 PM
+Settings7/28/2021 9:42:40 PM
+Settings7/28/2021 9:42:40 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:42:40 PM
+How to display list items on console window in C# - Stack Overflow - Google Chrome7/28/2021 9:42:40 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:42:40 PM
+Microsoft Text Input Application7/28/2021 9:42:41 PM
+Settings7/28/2021 9:42:41 PM
+Settings7/28/2021 9:42:41 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:42:41 PM
+How to display list items on console window in C# - Stack Overflow - Google Chrome7/28/2021 9:42:41 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:42:41 PM
+Microsoft Text Input Application7/28/2021 9:42:42 PM
+Settings7/28/2021 9:42:42 PM
+Settings7/28/2021 9:42:42 PM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/28/2021 9:42:42 PM
+How to display list items on console window in C# - Stack Overflow - Google Chrome7/28/2021 9:42:42 PM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/28/2021 9:42:42 PM
+Microsoft Text Input Application7/29/2021 9:47:08 AM
+Settings7/29/2021 9:47:08 AM
+Settings7/29/2021 9:47:08 AM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/29/2021 9:47:08 AM
+How to use class from other files in C# with visual studio? - Stack Overflow - Google Chrome7/29/2021 9:47:08 AM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/29/2021 9:47:08 AM
+Microsoft Text Input Application7/29/2021 9:47:09 AM
+Settings7/29/2021 9:47:09 AM
+Settings7/29/2021 9:47:09 AM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/29/2021 9:47:09 AM
+How to use class from other files in C# with visual studio? - Stack Overflow - Google Chrome7/29/2021 9:47:09 AM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/29/2021 9:47:09 AM
+Microsoft Text Input Application7/29/2021 9:47:10 AM
+Settings7/29/2021 9:47:10 AM
+Settings7/29/2021 9:47:10 AM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/29/2021 9:47:10 AM
+How to use class from other files in C# with visual studio? - Stack Overflow - Google Chrome7/29/2021 9:47:10 AM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/29/2021 9:47:10 AM
+Microsoft Text Input Application7/29/2021 9:48:36 AM
+Settings7/29/2021 9:48:36 AM
+Settings7/29/2021 9:48:36 AM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/29/2021 9:48:36 AM
+How to use class from other files in C# with visual studio? - Stack Overflow - Google Chrome7/29/2021 9:48:36 AM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/29/2021 9:48:36 AM
+Microsoft Text Input Application7/29/2021 9:48:38 AM
+Settings7/29/2021 9:48:38 AM
+Settings7/29/2021 9:48:38 AM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/29/2021 9:48:38 AM
+How to use class from other files in C# with visual studio? - Stack Overflow - Google Chrome7/29/2021 9:48:38 AM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/29/2021 9:48:38 AM
+Microsoft Text Input Application7/29/2021 9:48:39 AM
+Settings7/29/2021 9:48:39 AM
+Settings7/29/2021 9:48:39 AM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/29/2021 9:48:39 AM
+How to use class from other files in C# with visual studio? - Stack Overflow - Google Chrome7/29/2021 9:48:39 AM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/29/2021 9:48:39 AM
+Microsoft Text Input Application7/29/2021 9:48:40 AM
+Settings7/29/2021 9:48:40 AM
+Settings7/29/2021 9:48:40 AM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/29/2021 9:48:40 AM
+How to use class from other files in C# with visual studio? - Stack Overflow - Google Chrome7/29/2021 9:48:40 AM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/29/2021 9:48:40 AM
+Microsoft Text Input Application7/29/2021 9:48:41 AM
+Settings7/29/2021 9:48:41 AM
+Settings7/29/2021 9:48:41 AM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/29/2021 9:48:41 AM
+How to use class from other files in C# with visual studio? - Stack Overflow - Google Chrome7/29/2021 9:48:41 AM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/29/2021 9:48:41 AM
+Microsoft Text Input Application7/29/2021 9:48:42 AM
+Settings7/29/2021 9:48:42 AM
+Settings7/29/2021 9:48:42 AM
+WorkerServiceTest (Running) - Microsoft Visual Studio7/29/2021 9:48:42 AM
+How to use class from other files in C# with visual studio? - Stack Overflow - Google Chrome7/29/2021 9:48:42 AM
+D:\Programming\C#\WorkerServiceTest\bin\Debug\netcoreapp3.1\WorkerServiceTest.exe7/29/2021 9:48:42 AM
